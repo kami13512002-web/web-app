@@ -5,10 +5,10 @@
   "compatibility_date": "2026-07-30",
   "compatibility_flags": ["nodejs_compat"],
   "d1_databases": [
-    { "binding": "DB","database_id": "363bd66e-6b05-4a9e-8cd6-497f2a691ae4","database_name": "mango-core-luna-babddb-db" }
+    { "binding": "DB" }
   ],
   "kv_namespaces": [
-    { "binding": "KV","id": "073419e361b0442aae18c3ffeaf4cb0a" }
+    { "binding": "KV" }
   ],
   "workers_dev": true,
   "preview_urls": true,
